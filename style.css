@@ -1,0 +1,213 @@
+*{
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+    
+}
+.hero{
+    text-align: right;
+    margin: 25px;
+    margin-top: 0%;
+    font-family:  cursive;
+    
+    
+}
+
+.hero a:hover{
+    color: aqua;
+    transition: 3s;
+}
+.logo{
+    color: yellow;
+    font-size: larger;
+    margin-top: 0%;
+    margin: 25px;
+    padding: 5px;
+    font-family: fantasy;
+
+}
+
+.cat{
+    color: yellow;
+    margin: 8px;
+    text-decoration: none;
+}
+.fat{
+    color: yellow;
+    margin: 8px;
+    text-decoration: none;
+}
+.bat{
+    color: yellow;
+    margin: 8px;
+    text-decoration: none;
+}
+.sat{
+    color: yellow;
+    margin: 8px;
+    text-decoration: none;
+}
+.image{
+    border-radius: 750px;
+    background-color:yellow;
+    width: 450px;
+    height: 450px;
+    float: left;
+    padding:10px ;
+    margin-left: 75px ;
+    margin-right:100px ;
+    margin-bottom:75px ;
+    margin-top: 0%;
+}
+.image img{
+    border: 2px;
+    border-radius: 750px;
+    width: 450px;
+    height: 450px;
+    float: left;
+    padding:10px ;
+    margin-left: 75px ;
+    margin-right:100px ;
+    margin-bottom:75px ;
+    margin-top: 0%;
+}
+.intro{
+    font-size: large;
+    color: yellow;
+    margin-top: 300px;
+    
+}
+.state{
+    color: yellow;
+    margin-top: 30px;
+    font-size: 15px;
+    font-family: cursive;
+} 
+.btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn button{
+    color: yellow;
+    border: 3px solid yellow;
+    border-radius: 20px;
+    padding: 10px;
+    background-color:black;
+    font-size: smaller;
+    font-family: cursive;
+    
+}
+.btn button:hover{
+    background-color: yellow;
+    color: black;
+    transition: 2;
+}
+.icons{
+   color: yellow;
+   margin-top: 85px;
+   display: inline-block;
+}
+.fa-brands{
+    border: 3px solid yellow;
+    border-radius:130px;
+    padding: 40px 55px 40px 40px;
+
+}
+.fa-brands:hover{
+    color: aqua;
+    border: 3px solid aqua;
+    transition: 2s;
+
+}
+
+.icons .fa-brands{
+    height:10px ;
+    width: 10px;
+}
+section{
+    padding: 50px 5px 50px 500px ;
+    margin: 100px 0px 0px 0px;
+    background-color: yellow;
+}
+span{
+    color: white;
+    font-size: larger;
+}
+
+.me{
+    border: 50px solid black;
+    color: yellow;
+    border-radius: 750px;
+    text-align: left;
+    padding: 50px 50px 50px 195px;
+    font-family: cursive;
+    font-size: large;
+}   
+.nin{
+    padding:65px ;
+    margin: 65px;
+    background-color: black;
+    color: yellow;
+    border: 5px solid  rgb(255, 255, 0);
+    border-radius: 75px ;
+    align-items: center;
+}
+.trix{
+    background-color: black;
+    color: yellow;
+    border: 5px solid  yellow;
+    border-radius: 75px ;
+    padding: 75px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.trix:hover{
+    transform: scaleX(1.2);
+}
+.bin{
+    background-color: black;
+    color: yellow;
+    border: 5px solid  yellow;
+    border-radius: 75px ;
+    padding: 75px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.bin:hover{
+    transform: scaleX(1.2);
+}
+.vin{
+    background-color: black;
+    color: yellow;
+    border: 5px solid  yellow;
+    border-radius: 75px ;
+    padding: 75px;
+    align-items: center;
+}
+.vin:hover{
+    transform: scaleX(1.2);
+}
+span h2{
+    margin-bottom: 15px;
+}
+strong{
+    color: rgb(255, 255, 255);
+    background-color: yellow;
+    font-size: larger;
+    margin: 55px 55px 55px 55px;
+}
+.comment{
+    background-color: yellow;
+    margin:45px ;
+    color: white;
+
+}
+form{
+    justify-content: center;
+    padding: 55px;
+    background-color: wheat;
+    border-radius: 35px;
+    margin-right: 50px;
+}
+
+
